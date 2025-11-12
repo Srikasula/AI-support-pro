@@ -16,3 +16,6 @@ knowledge_base/
 app.bak.file
 # Secrets
 backend/.env
+# Local data stores (do not commit)
+backend/.chroma/
+backend/ai_support.db
