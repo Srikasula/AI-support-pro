@@ -1,0 +1,1 @@
+FAQ: For all orders above 0, shipping is free.
